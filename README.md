@@ -1,4 +1,4 @@
-**Project Waze aims to prevent or at least reduce churn, hence improving retention and driving business growth by analyzing a dataset with 14,999 rows and 13 columns:**\
+**Project Waze aims to prevent or at least reduce churn, thereby improving retention and driving business growth through the analysis of a dataset with 14,999 rows and 13 columns:**\
 A. Predicting customer churn using logistic regression, random forest and xgboost.\
 B. Identifying key predictors of customer churn using correlation heatmap and feature importance from logistic regression and xgboost.\
 C. Comparing iphone and android as users' device types using A/B test.\
